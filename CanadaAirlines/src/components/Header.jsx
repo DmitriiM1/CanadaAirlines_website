@@ -13,8 +13,6 @@ const Header = () => {
     return (
         <div>
             <header>
-
-                // burger for the phones and tablets
                 <div className='leftMenu'>
                     <ul>
                         <Link to="/"><li>Home</li></Link>

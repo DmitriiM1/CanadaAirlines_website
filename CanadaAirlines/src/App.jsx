@@ -8,6 +8,7 @@ import {
     Routes,
     Navigate
 } from "react-router-dom";
+import Footer from "./components/Footer";
 
 const App = () =>{
     return(
@@ -18,6 +19,7 @@ const App = () =>{
                     <Route path="/" element={<Home/>} />
 
                 </Routes>
+                <Footer/>
             </div>
         </Router>
     )
