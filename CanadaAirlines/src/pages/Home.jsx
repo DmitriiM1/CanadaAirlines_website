@@ -19,78 +19,78 @@ const Home = () => {
         <div>
             <section className="sec1">
 
-                <div class="block">
+                <div className="block">
                     <img src={ottawa} alt="ottawa" />
-                    <div class="infoBlock">
+                    <div className="infoBlock">
                         <h1>To Canada</h1>
                         <h2>from 10.000 ₽</h2>
                         <a href="search.html">
-                            <div class="button">
+                            <div className="button">
                                 Look at
                             </div>
                         </a>
                     </div>
                 </div>
 
-                <div class="block">
+                <div className="block">
                     <img src={dubai} alt="dubai" />
-                    <div class="infoBlock">
+                    <div className="infoBlock">
                         <h1>To UAE</h1>
                         <h2>from 50.000 ₽</h2>
                         <a href="search.html#UaeZ">
-                            <div class="button">
+                            <div className="button">
                                 Look at
                             </div>
                         </a>
                     </div>
                 </div>
 
-                <div class="block">
+                <div className="block">
                     <img src={europa} alt="europa" />
-                    <div class="infoBlock">
+                    <div className="infoBlock">
                         <h1>To Europe</h1>
                         <h2>from 60.000 ₽</h2>
                         <a href="search.html#EurZ">
-                            <div class="button">
+                            <div className="button">
                                 Look at
                             </div>
                         </a>
                     </div>
                 </div>
 
-                <div class="block">
+                <div className="block">
                     <img src={moscow} alt="moscow" />
-                    <div class="infoBlock">
+                    <div className="infoBlock">
                         <h1>To Russia</h1>
                         <h2>from 40.000 ₽</h2>
                         <a href="search.html#RussZ">
-                            <div class="button">
+                            <div className="button">
                                 Look at
                             </div>
                         </a>
                     </div>
                 </div>
 
-                <div class="block">
+                <div className="block">
                     <img src={china} alt="china" />
-                    <div class="infoBlock">
+                    <div className="infoBlock">
                         <h1>To China</h1>
                         <h2>from 50.000 ₽</h2>
                         <a href="search.html#ChinaZ">
-                            <div class="button">
+                            <div className="button">
                                 Look at
                             </div>
                         </a>
                     </div>
                 </div>
 
-                <div class="block">
+                <div className="block">
                     <img src={america} alt="america" />
-                    <div class="infoBlock">
+                    <div className="infoBlock">
                         <h1>To America</h1>
                         <h2>from 10.000 ₽</h2>
                         <a href="search.html#AmerZ">
-                            <div class="button">
+                            <div className="button">
                                 Look at
                             </div>
                         </a>

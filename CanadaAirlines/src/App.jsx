@@ -9,6 +9,7 @@ import {
     Navigate
 } from "react-router-dom";
 import Footer from "./components/Footer";
+import Search from "./pages/Search.jsx";
 
 const App = () =>{
     return(
@@ -17,7 +18,7 @@ const App = () =>{
                 <Header />
                 <Routes>
                     <Route path="/" element={<Home/>} />
-
+                    <Route path="/search" element={<Search/>} />
                 </Routes>
                 <Footer/>
             </div>
